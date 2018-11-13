@@ -1,3 +1,3 @@
 # ek_bash a repository for BASH exercises
-the directories will be divided by the sections of the Udemy course by Ermin Kreponic on BASH scripting which can be found via the following link:
-https://www.udemy.com/bash-programming/
+The directories are organized by the sections found in Ermin Kreponic's Bash scripting course on Udemy entitled BASH Programming Course: Master the Linux Command Line!
+https://www.udemy.com/bash-programming
